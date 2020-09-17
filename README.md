@@ -31,3 +31,4 @@ Make the executable using
 ```
 pyinstaller setup.spec
 ```
+See [Releases](https://github.com/psomers3/TCPXBoxController/releases) for compiled versions for Windows 10. Usage is the same as running as standalone script.
