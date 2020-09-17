@@ -27,7 +27,7 @@ or
 Using the setup.spec file with pyinstaller, a standalone (no python environment required) executable can be created. See next section.
 
 ### Executable
-Make the executable (see [releases](https://github.com/psomers3/TCPXBoxController/releases) for an already compiled executable for Windows 10) using 
+Make the executable using 
 ```
 pyinstaller setup.spec
 ```
