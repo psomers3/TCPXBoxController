@@ -13,6 +13,8 @@ This may be used as an object in a python script with
 ```python
 from TCPXboxController import TCPXboxController
 controller = TCPXboxController(dev_num=0, send_socket_port=63636, rec_socket_port=63637, socket_ip='localhost')
+controller.start_sockets()
+controller.stop_sockets()
 ```
 
 or 
