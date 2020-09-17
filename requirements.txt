@@ -1,0 +1,2 @@
+git+git://github.com/psomers3/PyDataSocket.git#egg=PyDataSocket
+git+git://github.com/r4dian/Xbox-Controller-for-Python.git#egg=xinput
